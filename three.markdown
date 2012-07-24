@@ -1,0 +1,1 @@
+The available filters are `manufacturer`, `category`, and `ecoscorecard`. When filtering on `manufacturer` and `category`, exact matches against those attributes will be performed. The `ecoscorecard` filter should be passed the value `true` or `false` to filter for only products with or without ecoScorecard data.
